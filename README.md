@@ -20,23 +20,23 @@ Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisicu
 ### Template
 
 ```markdown
-# Título do Projeto Extremamente Aesthetic ;)
+# Imagens de uma cidade grande
 
 ## 📒 Descrição
-Breve descrição do seu projeto
+Exibir imagens reais de cidades iconicas do mundo, coomo primeira imagem a cidade de Nova Iorque
 
 ## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
+ferramenta usada https://app.leonardo.ai/
 
 ## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
+Foi dado algumas imagens de referencia para o aplicativo e depois foi se refinando os comandos ao app.leonardo.ai
 
 ## 🚀 Resultados
-Apresente os resultados do seu projeto
+aqui esta o link para pode visualizar o resultado
+https://drive.google.com/file/d/1fdrYayZpmpie_4vLqjuTYb9PHbdmrhba/view?usp=drive_link
 
 ## 💭 Reflexão (Opcional)
-Comente sobre o desafio de criar algo 'natty' com IA.
-```
+Muito legal o desafio e muito dificil para conseguir chegar a uma imagem real
 
 ### Exemplos e Insigths
 
